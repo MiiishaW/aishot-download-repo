@@ -1,1 +1,0 @@
-# aishot-download-repo
